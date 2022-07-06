@@ -1,0 +1,24 @@
+:root {
+  --app-font: 'Quicksand', 'Lato', sans-serif;
+  --neutral-color: white;
+}
+
+.App {
+  font-family: var(--app-font);
+  text-align: center;
+  background: var(--neutral-color);
+  user-select: none;
+}
+
+.wheel-name {
+  font-family: 'Press Start 2P', cursive;
+}
+
+.logo {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  z-index: 1;
+  top: 18.1em;
+  right: 42.1em;
+}
