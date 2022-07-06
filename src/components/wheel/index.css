@@ -102,6 +102,7 @@
   text-align: right;
   padding: 0 25px 0 50px;
   font-family: var(--wheel-font);
+  font-weight: bold;
 }
 
 .wheel-item:before {
